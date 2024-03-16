@@ -1,1 +1,1 @@
-# Final Year Project - Group 25
+# Memorandum Management System
