@@ -1,0 +1,1 @@
+# Sveltekit (Frontend) and SpringBoot (Backend) Apps
