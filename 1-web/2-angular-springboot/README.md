@@ -1,1 +1,0 @@
-# Angular (Frontend) and SpringBoot (Backend) Apps
