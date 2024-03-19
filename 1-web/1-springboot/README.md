@@ -1,1 +1,1 @@
-# Spring MVC Apps
+# SpringBoot Fullstack Apps (e.g. MVC)
