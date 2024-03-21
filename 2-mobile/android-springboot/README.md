@@ -1,1 +1,0 @@
-# Adnroid/Kotlin (Frontend) and SpringBoot (Backend) Apps

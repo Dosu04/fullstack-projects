@@ -1,1 +1,0 @@
-# Nuxt.js FullStack Apps
